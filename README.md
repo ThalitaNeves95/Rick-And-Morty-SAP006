@@ -4,7 +4,7 @@
 
 <h1 align="center">👴🏼🌍🛸👦🏻</h1>
 <h2 align="center">RICK AND MORTY</h2>
-<h3 align="center">Para acessar o projeto, clique <a href="https://biancacristinaalves.github.io/SAP006-data-lovers/" target="_blank" style="color:#97CE4C" title="Clique aqui!">Aqui 🚀.</a></h3>
+<h3 align="center">Para acessar o projeto, clique <a href="https://thalitaneves95.github.io/Rick-And-Morty-SAP006/" target="_blank" style="color:#97CE4C" title="Clique aqui!">Aqui 🚀.</a></h3>
 
 ![Início](https://media.giphy.com/media/pWvTnP291rcybYITHv/giphy.gif)
 
